@@ -1,2 +1,2 @@
 # number_guessing_game
-I made a small project on number guessing game 
+A Python based number guessing game where the user has to guess the number that is chosen by the computer . It is a beginner-friendly Python project 
