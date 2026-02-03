@@ -1,6 +1,6 @@
 import random 
 #random number is taken btw 1 and 100
-random_num=random.randint(1,50)
+random_num=random.randint(1,100)
 #guessing number is taken from user
 print("*** \"NUMBER GUESSING CHALLENGE\" ***")
 print()
@@ -19,6 +19,7 @@ while True:
                 print()
                 print("CONGRADULATIONS!! YOU GUESSED CORRECTLY :" , random_num)
                 break
+
 
 
 
